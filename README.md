@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @swagatskalita092
 - 👀 I’m interested in ...
-- 🌱 I’m currently learning ...python , html , css 
+- 🌱 I’m currently learning ...python , data science , machine learning , data analytics  
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...sk5749@srmist.edu.in, swagatskalita2001@gmail.com
 
