@@ -44,7 +44,7 @@
 <a href="https://www.instagram.com/_swagaaat_/" target="_blank">
 <img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
 </a>
-<h3 align="left">Connect with me:</h3>
+<h4 align="left">Youtube channel:</h4>
 <p align="left">
 <a href="https://www.youtube.com/c/swagat parshuram" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="swagat parshuram" height="30" width="40" /></a>
 </p>
