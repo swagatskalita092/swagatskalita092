@@ -3,7 +3,7 @@
 </div>  
   
 
-<h4><div align="center">I'm Swagat, I am an enthusiastic and dedicated student presently pursuing B.Tech in Computer Science</div></h4>
+<h4><div align="center">Hi!! I'm Swagat, I am an enthusiastic and dedicated student presently pursuing B.Tech in Computer Science</div></h4>
  
   
 -🌱 I’m currently learning data science and data mining 
