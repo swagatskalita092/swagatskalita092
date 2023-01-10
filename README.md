@@ -6,7 +6,7 @@
 <h4><div align="center">Hi!! I'm Swagat, I am an enthusiastic and dedicated student presently pursuing B.Tech in Computer Science</div></h4>
  
   
--🌱 I’m currently learning data science and data mining 
+-🌱 I’m currently learning data science, data mining and web development
   
 
 -⚡ Fun fact: I use tabs over spaces  
