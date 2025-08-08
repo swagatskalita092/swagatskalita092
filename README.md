@@ -39,11 +39,11 @@
 ---
 
 ### 📈 GitHub Stats
-<!-- Streak (stable) -->
-<img height="165" src="https://streak-stats.demolab.com?user=swagatskalita092&theme=tokyonight"/>
+<p>
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=swagatskalita092&show_icons=true&theme=tokyonight&rank_icon=github&cache_seconds=7200" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=swagatskalita092&layout=compact&theme=tokyonight&hide=jupyter%20notebook,html&cache_seconds=7200" />
+</p>
 
-<!-- Trophies (optional bling) -->
-<img src="https://github-profile-trophy.vercel.app/?username=swagatskalita092&theme=onedark&row=1&margin-w=10&no-bg=true"/>
 
 
 
