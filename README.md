@@ -5,7 +5,7 @@
 </h1>
 
 <p align="center">
-  <b>Data Engineer & Analyst</b> — cloud‑native data pipelines, automated ETL, and real‑time analytics.<br/>
+  <b>Data Engineer & Analyst</b> — cloud-native data pipelines, automated ETL, and real-time analytics.<br/>
   M.Sc. Informatics @ Universität Passau • Based in Germany
 </p>
 
@@ -17,37 +17,28 @@
 
 ---
 
-### About me
-- I design **cloud data platforms**: ingestion → transform → warehouse → **insightful dashboards**  
-- Tools I enjoy: **Python, SQL, Power BI, AWS, GCP, SAP BTP**  
-- Currently learning: **GCP Professional Data Engineer**, **PL‑300 (Power BI)**, **SAP BTP**  
-- Reach me: **swagatskalita2001@gmail.com**
+### 🧭 About me
+- 🔭 I design **cloud data platforms**: ingestion → transform → warehouse → **insightful dashboards**  
+- 🛠️ Tools I enjoy: **Python, SQL, Power BI, AWS, GCP, SAP BTP**  
+- 🎯 Currently learning: **GCP Professional Data Engineer**, **PL-300 (Power BI)**, **SAP BTP**  
+- 📫 Reach me: **swagatskalita2001@gmail.com**
 
 ---
 
-### Primary Tech Stack
-<!-- keep this tight—only what you actually use -->
-<p>
-  <img src="https://skillicons.dev/icons?i=python,git,github,docker,aws,gcp,postgresql,mysql" />
-</p>
-<p>
-  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=flat&logo=powerbi&logoColor=000"/>
-  <img src="https://img.shields.io/badge/BigQuery-4285F4?style=flat&logo=googlebigquery&logoColor=white"/>
-  <img src="https://img.shields.io/badge/SAP%20BTP-0FAAFF?style=flat&logo=sap&logoColor=white"/>
-</p>
+### 🛠 Primary Tech Stack
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![SAP BTP](https://img.shields.io/badge/SAP%20BTP-0FAAFF?style=for-the-badge&logo=sap&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 
 ---
 
-### Focus areas
-- **Data Engineering:** Airflow/Composer, BigQuery/Redshift, warehousing & modeling  
-- **Analytics:** Power BI (DAX, data modeling), data storytelling  
-- **Automation:** FastAPI (basics), scheduled jobs, CI/CD with GitHub Actions  
-- **Enterprise/UN:** SDG analytics, SAP BTP + cloud integration
-
----
-
-### GitHub stats
-<!-- stats can error when accounts are new/quiet; these params are stable -->
+### 📈 GitHub Stats
 <p>
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=swagatskalita092&show_icons=true&theme=tokyonight" />
   <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=swagatskalita092&layout=compact&theme=tokyonight&hide=jupyter%20notebook,html" />
@@ -55,5 +46,5 @@
 
 ---
 
-### Connect
+### 🤝 Connect
 Let’s connect on <a href="https://linkedin.com/in/swagat-s-kalita">LinkedIn</a> • <a href="mailto:swagatskalita2001@gmail.com">Email me</a>
