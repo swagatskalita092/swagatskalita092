@@ -39,10 +39,12 @@
 ---
 
 ### 📈 GitHub Stats
+
 <p>
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=swagatskalita092&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=swagatskalita092&layout=compact&theme=tokyonight&hide=jupyter%20notebook,html" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=swagatskalita092&show_icons=true&theme=tokyonight&rank_icon=github&cache_seconds=7200" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=swagatskalita092&layout=compact&theme=tokyonight&hide=jupyter%20notebook,html&cache_seconds=7200" />
 </p>
+
 
 ---
 
