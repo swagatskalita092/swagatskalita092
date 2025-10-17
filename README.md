@@ -23,20 +23,6 @@
 - 🎯 Focused on solving **real-world problems** through intelligent, data-driven systems.  
 - 💡 Motto: *“Turn data into impact, not just reports.”*  
 
----
-
-### 🧱 Featured Projects
-
-#### 🔹 [UN SDG Progress Analytics Dashboard](https://github.com/swagatskalita092/Global-SDG-Analytics)
-Tracks global progress on UN SDG 3 (Health) & SDG 4 (Education) using open datasets.  
-Built with **Python, SQL, Power BI**, and **Prophet forecasting** for 5-year trend prediction.
-
-#### 🔹 [Retail Sales & Customer Insights Platform](https://github.com/swagatskalita092/Cloud-Retail-Insights)
-Cloud-native analytics system on **GCP (BigQuery, Dataflow)** & **Power BI**, analyzing 15K+ transactions and automating KPI dashboards for churn and revenue trends.
-
-#### 🔹 [Automated Data Pipeline Monitoring System](https://github.com/swagatskalita092/Smart-Pipeline-Monitoring)
-Framework for tracking ETL jobs, latency, and data-quality metrics.  
-Implemented alerting via **Slack API** and real-time Power BI dashboards — reduced downtime by 35%.
 
 ---
 
