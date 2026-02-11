@@ -7,7 +7,7 @@
 </h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=2500&pause=800&color=36BCF7&center=true&vCenter=true&width=700&lines=Data+Engineer;ETL+%7C+SQL+%7C+Cloud;Building+Reliable+Data+Systems;Turning+Raw+Data+into+Structured+Insights" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=2500&pause=800&color=36BCF7&center=true&vCenter=true&width=750&lines=Data+Engineer;Data+Analyst;ETL+%7C+SQL+%7C+Cloud;Building+Reliable+Data+Systems;Turning+Raw+Data+into+Structured+Insights" />
 </p>
 
 <p align="center">
@@ -25,38 +25,13 @@
 
 I build structured data systems — from ingestion pipelines to clean analytical layers.
 
-My focus areas:
-- ETL workflow design  
-- Relational schema modeling  
-- Data validation & quality control  
-- SQL-based transformation systems  
+My work focuses on:
+- Designing ETL workflows  
+- Structuring relational data models  
+- Implementing validation and data quality checks  
+- Creating scalable KPI and reporting systems  
 
-Currently strengthening cloud integration (AWS & Azure) and production-oriented system design thinking.
-
----
-
-## 🛠 Core Technical Stack
-
-### Programming & Data Processing
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-
-### Data Engineering
-ETL Pipelines • Batch Processing • Schema Design • Data Validation • Data Quality Checks • Relational Modeling
-
-### Cloud & Storage
-AWS (S3, RDS – basic exposure)  
-Azure SQL (basic exposure)
-
-### Analytics & BI
-![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-Excel • KPI Dashboards • SQL Aggregations
-
-### Tools
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-GitHub • Jupyter • Docker (basic)
+I’m particularly interested in production-ready data engineering and analytical systems that are maintainable, reliable, and performance-aware.
 
 ---
 
@@ -64,4 +39,19 @@ GitHub • Jupyter • Docker (basic)
 
 <p align="center">
   <img height="160" src="https://github-readme-stats.vercel.app/api?username=swagatskalita092&show_icons=true&theme=tokyonight&rank_icon=github"/>
-  <img height="160" src="https://github-readme-stats.vercel.app/api
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=swagatskalita092&layout=compact&theme=tokyonight&hide=jupyter%20notebook,html"/>
+</p>
+
+---
+
+## 🐍 Contribution Graph Animation
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/swagatskalita092/swagatskalita092/output/github-contribution-grid-snake.svg" alt="snake animation"/>
+</p>
+
+---
+
+<p align="center">
+<i>Engineering reliable data systems — from ingestion to insight.</i>
+</p>
