@@ -1,7 +1,3 @@
-<!-- ============================== -->
-<!--            HEADER              -->
-<!-- ============================== -->
-
 <h1 align="center">
   👋 Hi, I'm <b>Swagat Subhash Kalita</b>
 </h1>
@@ -32,23 +28,6 @@ My work focuses on:
 - Creating scalable KPI and reporting systems  
 
 I’m particularly interested in production-ready data engineering and analytical systems that are maintainable, reliable, and performance-aware.
-
----
-
-## 📊 GitHub Insights
-
-<p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=swagatskalita092&show_icons=true&theme=tokyonight&rank_icon=github"/>
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=swagatskalita092&layout=compact&theme=tokyonight&hide=jupyter%20notebook,html"/>
-</p>
-
----
-
-## 🐍 Contribution Graph Animation
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/swagatskalita092/swagatskalita092/output/github-contribution-grid-snake.svg" alt="snake animation"/>
-</p>
 
 ---
 
