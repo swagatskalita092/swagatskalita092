@@ -1,6 +1,6 @@
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00F7FF&width=500&lines=Hey+I'm+Swagat+👋;Software+Engineer+based+in+Germany;Full+Stack+Developer;Building+ClearScan+🚀;Open+to+SWE+roles+in+EU)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00F7FF&width=500&lines=Hey+I'm+Swagat+👋;Software+Engineer;Full+Stack+Developer;Building+ClearScan+🚀;Open+to+SWEandData+roles+in+EU)](https://git.io/typing-svg)
 
 </div>
 
