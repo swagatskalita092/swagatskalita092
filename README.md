@@ -1,189 +1,46 @@
-<div align="center">
+# Hey, I'm Swagat 👋
 
-```
-                          .                                                                         .                                                             .               
-            .....      ..  .  ...          . . ....................  .  ....... .................. ................................. .............................. ............. 
-             ..    .   ..  .... .          .... ..................  .. ............     ....... ........ .................. . .............................................. .. . 
-                         .      ...... .        .   . ............  ..  . .  ..   ..... .......... ..... ............................... ........... ............................ 
-         . ..  .    .  ..  .         .    ..     .  ... ..........  .. . ....          . ........ ............................................................................... 
-               .....       .. .     ...          ....   . ..     .   . . .....          . ..............  .................................................................. .... 
-               .        .     .     . .....          ... ... .   .  ..    .             .    ...................................... ............................................. 
-               ..        .    . ..    ... .            ......... .  .  .. .               . ... ... ........  ................................................................... 
-                      .   ..  ..  .    ..........    .  ....  .  .  .  .       ...       .. ........... .. ......................................... .  . ...... ... ............ 
- .                 ..      . .   . ..                    . .     .  .  ..   .... ....... .......  ..... .............................  ............. .......   ......... ........ 
-                   .        .    .   ..     .  ....             ..  .  .. ....  ...... .. . . . ....................... .. . ...................................  ....... ... ... 
-                  ..  .                 .   .. .. . ...         .   .  ...... ..            .....   ............... .............. . ........... .................. . .  .........
-                    ..                 ....... ...... . ...    ...  .. ..                ..     ....  .... . ..............  ..... . ........... ...................... . ... ... 
-                       ..                    ..    ...... .   ...  ..   .    .      .      ..       ...  ................ .......... .. . . ... ....... ........ . ........ ....  
-                     .        .                .. ....   ..   . .  .....      .         .     ....     ... ..................... ................... ........................ ..  
-                          ..  .         .        .  .    ...... .                ...               .        ......... . ................ .. ...  . ............................   
-                    .           .        . .               .   ...      .    .........:... . .                .... ... . ........ .   .............. .. . ............. ..    .   
-   .                .               . ...      ........    .  ...               ..........:::::::::.......       ..   .................... ......... .... .. .... .... . . . .    
-                   .              .      ..  ....      ...   ...         .  . ..::-----=====---------------.      ... ................................. ........  .   .           
-                             .   .         .   .           . ..           ...:-==----------------------------.     ...     ..... ..... ... ........ .. ........ .. .              
-                                    ..     .          .      .        ...::----------------------------------=:.    ....    .......................... . ...    .              .. 
-   .                 .   .    .    ..                       ..       .....:::::::--------------------------::---.    ....    ... ........ ...... .. ...........               ..  
-                   .          .          .           .       .        . ..:::::--------------------:-----:--:::--.      ..  .   ................... ............           ....   
-  .                                                        ..           .--:--=++++++***+++==----------:::::::::-:   ... ..         ................. ...   .    .         . ..  .
-                                            .....    ...   . . .       :::::-:          .::-===------===--::::::::..   .  ..    ...   ....  ....  ...   ....      .        ...... 
-                                    .    ....    .       ..  ..      .::::::  .::----..      :-----=====+++==-::::   .. .. ....  .....   .  .. ......          ..          ....   
-                                       ...         . .....          ..::::. .:-=-====+++==::.:--:---.       -==-::        .   ..     ..     ..    . .   .             ... .....   
-.                                         . ... ....        .    .   .:::::::::.:-=++=-:--:::::----:.      .   .::   .     ..  .             .  .           ...       . .. .      
-                                          ....              .       .::::::...         ..::..::==-...:-++++++-.  .       . .   ...               ...        . .   ... .       ..  
-                                                                    ..:::-:::.....:...-.  -:.::=-. .:-:-==-::-=:..     .   .. .  .       ...    .. .. ... ......... ...   .....   
-                .                                            ::     ..::--:--:::.......:--::::---:.:  . ...:-:.:..         .  .  ...... .. ......   ... ...   ..      . ...  .    
-               .                       .                    =..:-:  :..::-----===========----:--==:::-=.   .  ....         .  .    .  ...      ...  ..      ...    ...            
-                                                           -: ::.. .:.::----------=-------:-::::--.:::::::-:.  .:.             ..  ..    .   ..                  ....   . .     . 
-    .                                         .            +-:=-.. .:.::-::------------=-:::::----:.--=-:. ....:-.               ..  .   .. .       ...    ..    .         . .    
-                                                        .  =-+-......::::-:-------------:-+*+==++==::--=======---.            . .     ...    . . ..........    ...  .     .. .    
-          .                                                :+=.:=. ..::::::-::::---::::.      .---:.:------------.       .    ..     . ...   .   .  ..             ..       .   . 
-      .                                .                   :=+:--  ..:::::.:::::::::--=-::-++-.      .--------::-.              ..    .             .     .     ..                
-    .                                                       =..=:  ..:::::::::::------==-:..::...::..::------:::-.             .   . .  .   ..   .                       . ..     
- .                                                          :-:-: ..:::::::----=-      .           :==-::-:::::::                              .    . ..    .     ..    .         
-            .                                               =++=-  ..:::::-.---.     .....--=+++=.    :-:-::.:...     ..              ..                  ......                . 
-                                                  .           .   .....:::::.   .:--.........    .....   :-::...: .                     ..    .     .          ....               
-                                                                 ......::.::---=--=-=------=++===--: .    =-:..:.                     .     .  .                .     .           
-                              .                               .  .......:....:::::-----::.   .......:-=+= :-..::.                       .    .   ..           .   .               
-                                                                 .  ..... ..:::.:..:::---::.      .::-=== :..::.  .    .                            ..                            
-                                                                .:   . ...:::------::--====-:::-::--:::.:.......                                                                  
-                                                                .:.      ..::-::..---::::-=======---:.......:..                                                                 . 
-  . .                                                           .:.         .. ............:-::::::::::::....                                                                     
-                                                          . .   .::..          ........... .. .... ....:....                                                                      
-                                                                :::::..              ..    .. ... .    ...                                                                        
-                                                               .:::::::....                    . ..                                                                               
-                                                               :::::::::... .                                                                                                     
-                                                              .::::::...::.....     .                                                                                             
-                 .    .         .                             ..::::::::.::........                .                          .                             .                     
-                                                                .--::::::::::...........        ....                                                           .      .          .
- .                                                           .   .=-:::::::::::................. ..                                                                  .            
-                                .                                  =-:::::::...::...................                                 .                                            
-                                                                   .==:::::::::...:...::::.......:.                                                                               
-        .                                  ..                 .      ==--::::::::.................      .                                                      .              .   
-       .                                                 .            ==-:::::::::::............:.                    .                                                           
-                             .                                        .-=-::::::::::::::::......:                                     .                                           
-                                                                        -=-::::::::::::.......::.         .                                                                       
-  .                           .  .  .          ..  .                     .+++==::::::.:.::....:.                                                                                  
-                                                            .=.          .   .-+++==-::......:...                                                            .                    
-     .                                                       .                     .-====---::...                                                                                 
-                                                              .     :=:.                  ...                   .                                                          .      
-               .                                                                                                      .                                .                          
-                                                                                  .                                     =:.                                                       
-                                   .    .                                          ...                                  ...   .                                          .        
-                                                                                     .    . .                .   .                             .                                  
-                                                                  .         :   .-.            .              ..     ..=                                                          
-                    .                             ..                         ..        ...                   ..        .                                                          
-             .                                .                    .           ..        ..    .           ...                  .                        .                        
-                                                                              .  .        ..            . ..                                                                      
-                                                                                   .       ..           ...     ..-.                                          .                   
-                    .                                   .                            .      ..        ...                                                                         
-                                                                                      ..             ..                                                                      .    
-                                                  .                                     ..          ..                                                                            
-                                    .               .                                 .   .        .                                                                              
-                         .     .                                                            .     .                                                                               
-                                      .                    .                                 .                                                                . .                 
-                                                                                              .  .                                                                       .        
-                                                       .                                       .                                                                                  
-               . .                                                                         .   ..                                                                                 
-                                            .                                    .                   .                             .                                         .    
-                                                                                                .                                                                                 
-                   .                                              .                                                                                                .              
-                                                                                                                                                               .                  
-                            .                      ..                                                                                                                             
-                      .                                                                                                                                                           
-                                                                                                   .                                                              
- ..........  .                                                             .                                                                -+:                                   
- ....... .                                                                                             .                          :+**+   ==+==                                   
-      .....                                                    .                                                                .--:::: -=-::::=**.                     .         
-   ....  ..                                                                                                                    .--:-:. -=-::...--+:                               
- ...      ..                                                                                                                  .=---:  -=---..::--:                                
-          ..                                                                                                                 :=-:-: .---::..::::.                      ........ . 
-    .      ..                                                                                                               .:::::..:::::..-===: .                                
-  ...........                                                                                                              .-::::...:::::=+++-:::.                                
- ..      .....                                .                                                                           .-::--..-==+=::.                                        
-  ............                                                                                                            .=#+=--=:...                                            
- ..............                          .                                                                               .                                               ..       
- ........ .. ..          .                                                                                                .                                               .       
- ......    .....                       .            .          .                 .:========+===-:.                                                                         .      
-      ......   .                                                     .     .-=====---::-:::::::::..         .::..                                                          .      
-  .         .....          .                      .                .=======--:::::::::::::::::::::..          ..      .                                                    .      
- .. ..............                                                   :=:-=+===-::::::::::::::::::::.. .                   .                                                .      
-   ...............                                                   .=+=.    :+=::::::::::::::::::..                                                                      .      
-  ................                                                              =+=----------::::.:...                                  .                   .             ..     .
- .................                                                                :+++==-::............                      .                              .             .       
-  ................                                                                      ...............                                                                   .       
- ..................                                                                          ..........        .:                                                        ..       
-    ........... ...                  .                                                            ....                                                                   .        
-  .......... .......                                                               ..          .                                                                        ..        
- ............. ......                                                                                                                                                   ..        
- ............... .....                                                                                                                                                            
- .......................                                                                                                                                               ..  .      
- .......................                                                                                                                                              . .         
- ......................                                                                       .                                                                     ...           
-  ....................       :                                                                                                                                  .....             
-  ........... .......       :::.                          .                                .                                   .  .                           ....                
- .....  .............         .                                                                                                .....                      ....                    
-   . ...............                                               .                                                             ......        ..................                 
- ......... ........                                                                                                  .           ...................  ...     .                   
- ..................                                                                                                              ........ .......... ....     ..  ..              
- .................                                                                                                               ............   . ...  ......  .                  
- .................                                                    .                                                           ..  ...                       .       .         
-   ....  ........                                                                                                 .  .    .       .... .. .....................   . .   .         
- .... ..     ....                                                                                            .                     ... ..  ...................................... 
- ...............                                                                                                   ::              ...       .................................... 
- ...............                                         ..                                                                        ............   .       ....................... 
- ..............                                                                                 .                                  .................................    ......... 
-```
+I'm a software and data engineer based in Germany, currently finishing my 
+M.Sc. in Informatik at the University of Passau.
 
-</div>
+I build things end-to-end — from database design and backend APIs to 
+frontend interfaces and deployment pipelines. I care about systems that 
+actually work in production, not just on localhost.
+
+Right now I'm deepening my software engineering fundamentals (DSA, system 
+design, CS basics) while actively building and shipping real products.
 
 ---
 
-<div align="center">
+### 🛠 What I work with
 
-```
-swagat@dev
-----------
-OS       : Universität Passau, Germany
-Uptime   : M.Sc. Informatik, Semester 3
-Host     : Software & Data Engineering
-Kernel   : Python 3.12, SQL, JavaScript
-IDE      : VS Code + Cursor
-
-Languages.Core    : Python, SQL, JavaScript
-Languages.Web     : HTML, CSS, React, Django, FastAPI
-Languages.DB      : PostgreSQL, MySQL, Supabase
-Languages.Human   : English (C1), German (A2)
-
-Stack.Backend     : FastAPI, Django, Python
-Stack.Frontend    : React, Vite, Tailwind CSS
-Stack.Data        : Airflow, dbt, Docker
-Stack.Cloud       : AWS, Railway, Netlify, Supabase
-Stack.DevOps      : GitHub Actions, Docker, CI/CD
-
-Building          : ClearScan (clearscan.fyi)
-Learning          : DSA + System Design + SWE Prep
-Target            : Software Engineer roles in EU
-
-Contact.Email     : swagatskalita2001@gmail.com
-Contact.LinkedIn  : swagat-s-kalita
-Contact.GitHub    : swagatskalita092
-```
-
-</div>
+**Languages** — Python, JavaScript, SQL, HTML, CSS, Bash  
+**Backend** — FastAPI, Django, REST APIs  
+**Frontend** — React, Vite, Tailwind CSS  
+**Databases** — PostgreSQL, MySQL, Supabase  
+**Data** — Apache Airflow, dbt, ETL pipelines, data quality frameworks  
+**DevOps** — Docker, GitHub Actions, CI/CD, Railway, Netlify, AWS  
 
 ---
 
-### 🚀 Featured Project
+### 💼 Featured Work
 
-**[ClearScan](https://clearscan.fyi)** — AI-powered resume parsing and job-matching platform.
-Built end-to-end: FastAPI backend, React frontend, PostgreSQL with RLS, Stripe payments, Claude API integration, GitHub Actions CI/CD. 50-70 active users within first month.
+**[ClearScan](https://clearscan.fyi)**  
+An AI-powered resume parsing and job-matching platform I founded and built 
+from scratch. Full stack — FastAPI backend, React frontend, PostgreSQL with 
+row-level security, Stripe payments, and Claude API integration for 
+AI-powered candidate scoring. Deployed, live, and actively used.
 
----
+**[Stack Overflow Developer Survey — Analytics Pipeline](https://github.com/swagatskalita092/Stack_Overflow_Pipeline)**  
+End-to-end data pipeline ingesting 65K+ survey responses via a 4-step 
+Airflow DAG with layered dbt architecture and a non-blocking data quality 
+framework. Built to practice production-style orchestration on a real, 
+messy public dataset.
 
-### 📌 Pinned Work
-
-- **[Stack_Overflow_Pipeline](https://github.com/swagatskalita092/Stack_Overflow_Pipeline)** — End-to-end analytics pipeline, 65K+ records, Airflow + dbt + PostgreSQL
-- **[Creating-reporting-layer-in-DWH-for-BI](https://github.com/swagatskalita092/Creating-reporting-layer-in-DWH-for-BI)** — CRM data warehouse ETL, PostgreSQL, Docker
+**[CRM Data Warehouse — Reporting Layer](https://github.com/swagatskalita092/Creating-reporting-layer-in-DWH-for-BI)**  
+Non-destructive ETL pipeline in PostgreSQL feeding a sales data mart with 
+MRR and cumulative LTV views. Validated with automated QA checks and 
+containerized with Docker.
 
 ---
 
@@ -194,6 +51,12 @@ Built end-to-end: FastAPI backend, React frontend, PostgreSQL with RLS, Stripe p
 
 ---
 
-<div align="center">
-<i>Engineering reliable systems — from ingestion to insight.</i>
-</div>
+### 📬 Get in touch
+
+- Email: swagatskalita2001@gmail.com  
+- LinkedIn: [swagat-s-kalita](https://linkedin.com/in/swagat-s-kalita)  
+- ClearScan: [clearscan.fyi](https://clearscan.fyi)
+
+---
+
+*Currently open to Software Engineer and Data roles across Germany and the EU.*
