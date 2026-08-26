@@ -66,12 +66,14 @@ basics, while actively building and shipping real products.
 ### 💼 Featured Work
 
 **[ClearScan](https://clearscan.fyi)**
-An AI-powered resume parsing and job-matching platform I founded and built
-from scratch. Full stack: FastAPI backend, React frontend, PostgreSQL with
-row-level security, Stripe payments, and Claude API integration for
-AI-powered candidate scoring. Deployed, live, actively used, and shipping
-new features and fixes every month. #1 Product of the Week on KittyLaunch
-and a Semi-Finalist in LaunchBuff Tournament #4.
+A transparent, deterministic resume-scoring and job-matching platform I
+founded and built from scratch, using TF-IDF keyword extraction, O*NET
+occupational data, and named-entity recognition, not an AI wrapper. Full
+stack: FastAPI backend, React frontend, PostgreSQL with row-level security,
+Stripe payments, and the Anthropic Claude API used for specific scoring
+features. Deployed, live, actively used, and shipping new features and
+fixes every month. #1 Product of the Week on KittyLaunch and a
+Semi-Finalist in LaunchBuff Tournament #4.
 
 **[FlashBuy](https://github.com/swagatskalita092/flashbuy)**
 A high-throughput flash-sale checkout backend built to survive real
