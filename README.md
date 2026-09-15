@@ -11,7 +11,7 @@ Open to Software Engineer / Backend / Full-Stack roles across Germany and the EU
 
 ## Selected work
 
-### [ClearScan](https://clearscan.fyi) — Founder & Engineer
+### [ClearScan](https://clearscan.fyi) — Founder & Engineer · [Engineering Dossier](https://github.com/swagatskalita092/clearscan-engineering)
 Production résumé-scoring and job-matching platform, live since July 2026. 80+ registered users, 12 monthly paid subscribers, 900+ résumés parsed, under 6 seconds end-to-end. The free core scoring engine is deterministic and rule-based (TF-IDF, a custom skills taxonomy, O*NET occupational data, hand-tuned scoring with a calibration curve), not an AI wrapper — the Anthropic Claude API is limited to two paid features (bullet rewrites, cover letters) where the variable cost is justified by revenue. FastAPI, React, PostgreSQL/Supabase with row-level security, Stripe payments and webhooks, 29 API endpoints, 81 automated tests, 178 GitHub Actions deployments.
 
 ### [FlashBuy](https://github.com/swagatskalita092/flashbuy) — Systems engineering project
