@@ -37,7 +37,7 @@ Python · FastAPI · PostgreSQL · Redis · React · TypeScript · Docker · Git
 
 <div align="center">
 
-<img src="https://github-stats-extended.vercel.app/api?username=swagatskalita092&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="150"/>
+<img src="https://github-stats-extended.vercel.app/api?username=swagatskalita092&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" height="150"/>
 
 </div>
 
