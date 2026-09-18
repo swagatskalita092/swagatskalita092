@@ -17,12 +17,12 @@ Production résumé-scoring and job-matching platform, live since July 2026. 80+
 ### [FlashBuy](https://github.com/swagatskalita092/flashbuy): Systems engineering project
 A flash-sale checkout backend built to prove correctness under real concurrent load: row-level locking, idempotency keys, a Redis-backed waiting room with token-bucket rate limiting, and multi-instance leader election. Load-tested with Locust at 500 concurrent users: 204 req/sec sustained, zero oversold units. Two real concurrency bugs were found and fixed during development (a connection-pool exhaustion issue and a false-failure race condition), and chaos testing (killing the database, cache, and app instances mid-load-test) confirmed zero duplicate orders and zero oversold inventory across every failure scenario, with one honestly documented weak point (in-flight queue state lost on a Redis outage).
 
+### [Stack Overflow Developer Survey - Analytics Pipeline](https://github.com/swagatskalita092/Stack_Overflow_Pipeline): Data engineering project · [Live Dashboard](https://swagatskalita092.github.io/Stack_Overflow_Pipeline/site/)
+Two real survey years (65,437 2024 responses, 89,184 2023 responses) flow through Airflow and a layered dbt architecture into a release/candidate/publish safety pattern with a per-year monotonicity guard, so a bad or partial run can never silently become the official answer, proven with six real failure injections against a live Postgres/Airflow stack (killing the database mid-run, a truncated source file, overlapping concurrent runs) with zero corrupted publishes. A real correctness bug, an averages field silently NULL for every published cell since the first version, was found only because the project's own static dashboard forced a look at real per-cell coverage; the fix and every other investigation are documented start to finish in an [engineering journal](https://github.com/swagatskalita092/Stack_Overflow_Pipeline/blob/main/docs/engineering_journal.md). Salary USD conversion uses real historical ECB exchange rates and returns NULL, never a guessed rate, for currencies it can't map. One honestly documented weak point: Airflow's metadata database shares the same Postgres instance as the warehouse, so killing Postgres mid-run also takes the scheduler down; data safety held, recovery is manual.
+
 ---
 
 ## Also built
-
-**[Stack Overflow Developer Survey - Analytics Pipeline](https://github.com/swagatskalita092/Stack_Overflow_Pipeline)**
-65K+ survey responses ingested via a 4-step Airflow DAG, layered dbt architecture, and a non-blocking data-quality framework.
 
 **[CRM Data Warehouse - Reporting Layer](https://github.com/swagatskalita092/Creating-reporting-layer-in-DWH-for-BI)**
 Non-destructive ETL pipeline feeding a PostgreSQL sales data mart with MRR and cumulative LTV views, validated with automated QA checks.
