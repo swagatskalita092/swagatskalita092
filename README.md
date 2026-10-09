@@ -37,13 +37,5 @@ Python · FastAPI · PostgreSQL · Redis · React · TypeScript · Docker · Git
 
 <div align="center">
 
-<img src="https://github-stats-extended.vercel.app/api?username=swagatskalita092&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&v=20261009" height="150"/>
-
-</div>
-
----
-
-<div align="center">
-
 <a href="mailto:swagatskalita2001@gmail.com">Email</a> · <a href="https://linkedin.com/in/swagat-s-kalita">LinkedIn</a> · <a href="https://clearscan.fyi">ClearScan</a>
 </div>
