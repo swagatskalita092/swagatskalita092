@@ -1,6 +1,6 @@
 # Swagat Subhash Kalita
 
-Backend-focused software engineer building and operating full-stack products.
+Backend-focused software engineer. Correctness first, then speed.
 
 M.Sc. Informatik, University of Passau · Germany
 Open to Software Engineer / Backend / Full-Stack roles across Germany and the EU
