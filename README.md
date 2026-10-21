@@ -5,7 +5,7 @@ Backend-focused software engineer building and operating full-stack products.
 M.Sc. Informatik, University of Passau · Germany
 Open to Software Engineer / Backend / Full-Stack roles across Germany and the EU
 
-[Portfolio](https://swagatskalita092.github.io) · [LinkedIn](https://linkedin.com/in/swagat-s-kalita) · [Email](mailto:swagatskalita2001@gmail.com)
+[LinkedIn](https://linkedin.com/in/swagat-s-kalita) · [Email](mailto:swagatskalita2001@gmail.com)
 
 ---
 
