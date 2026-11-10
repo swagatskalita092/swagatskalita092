@@ -4,7 +4,7 @@ Backend-focused software engineer. Correctness first, then speed.
 
 M.Sc. Informatik, Germany
 
-Open to Software Engineer / Backend / Full-Stack roles across Germany and the EU
+Open to Software Engineer / Backend / Full-Stack roles
 
 [LinkedIn](https://linkedin.com/in/swagat-s-kalita) · [Email](mailto:swagatskalita2001@gmail.com)
 
