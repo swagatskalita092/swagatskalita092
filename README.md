@@ -1,8 +1,8 @@
 # Swagat Subhash Kalita
 
-Hi, I'm Swagat — a backend-focused software engineer finishing my M.Sc. in Informatik at the University of Passau, originally from Guwahati, India. I care more about whether a claim about my code is actually true than whether it sounds impressive, which is why most of what's below comes with the test that proved it, not just a tech list.
+Hi, I'm Swagat, a backend-focused software engineer finishing my M.Sc. in Informatik at the University of Passau. I care more about whether a claim about my code is actually true than whether it sounds impressive, which is why most of what's below comes with the test that proved it, not just a tech list.
 
-Outside of code: I used to play competitive tennis for TC Rot-Weiss Passau's men's team in the BTV league, and now work as a tennis instructor at the Universität Passau Sportzentrum. I'm also learning German, currently working toward B1.
+Outside of code, I play tennis and teach it on the side, and I'm slowly picking up German too.
 
 [LinkedIn](https://linkedin.com/in/swagat-s-kalita) · [Email](mailto:swagatskalita2001@gmail.com)
 
