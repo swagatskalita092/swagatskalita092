@@ -4,7 +4,7 @@ Hi, I'm Swagat, a backend-focused software engineer finishing my M.Sc. in Inform
 
 Outside of code: I used to play competitive tennis in the BTV league, and used to work as a tennis instructor.
 
-[LinkedIn](https://linkedin.com/in/swagat-s-kalita) · [Email](mailto:swagatskalita2001@gmail.com)
+[Portfolio](https://swagatskalita092.github.io/) · [LinkedIn](https://linkedin.com/in/swagat-s-kalita) · [Email](mailto:swagatskalita2001@gmail.com)
 
 ---
 
@@ -32,5 +32,5 @@ Python · FastAPI · PostgreSQL · Redis · React · TypeScript · Docker · Git
 
 <div align="center">
 
-<a href="mailto:swagatskalita2001@gmail.com">Email</a> · <a href="https://linkedin.com/in/swagat-s-kalita">LinkedIn</a> · <a href="https://clearscan.fyi">ClearScan</a>
+<a href="https://swagatskalita092.github.io/">Portfolio</a> · <a href="mailto:swagatskalita2001@gmail.com">Email</a> · <a href="https://linkedin.com/in/swagat-s-kalita">LinkedIn</a> · <a href="https://clearscan.fyi">ClearScan</a>
 </div>
