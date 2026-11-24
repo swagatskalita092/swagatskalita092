@@ -1,8 +1,8 @@
 # Swagat Subhash Kalita
 
-Backend-focused software engineer. Correctness first, then speed.
+Hi, I'm Swagat — a backend-focused software engineer finishing my M.Sc. in Informatik at the University of Passau, originally from Guwahati, India. I care more about whether a claim about my code is actually true than whether it sounds impressive, which is why most of what's below comes with the test that proved it, not just a tech list.
 
-M.Sc. Informatik, Germany
+Outside of code: I used to play competitive tennis for TC Rot-Weiss Passau's men's team in the BTV league, and now work as a tennis instructor at the Universität Passau Sportzentrum. I'm also learning German, currently working toward B1.
 
 [LinkedIn](https://linkedin.com/in/swagat-s-kalita) · [Email](mailto:swagatskalita2001@gmail.com)
 
@@ -21,13 +21,6 @@ Two real survey years (154,000+ responses) run through Airflow and dbt into a re
 
 ### [Fullproof Project Toolkit](https://github.com/swagatskalita092/fullproof-project-toolkit): Open-source methodology, skills & agent
 This is the actual method behind the three projects above, written down so anyone can follow it: pick an idea, name the risks, build in verified phases, test adversarially, document honestly, bugs included. It comes as nine docs, a seven-domain idea bank, and two full idea-through-resume worked examples, all packaged as importable Claude skills. I also packaged the core methodology as a standalone Claude Code agent: it runs the whole pipeline on its own and hands back one verified report, dispatching a genuinely separate agent for its own second-opinion and verification steps instead of just checking its own work. **13 skills · 1 agent · 9 docs · DOI-archived on Zenodo**
-
----
-
-## Also built
-
-**[CRM Data Warehouse - Reporting Layer](https://github.com/swagatskalita092/Creating-reporting-layer-in-DWH-for-BI)**
-A non-destructive PostgreSQL ETL pipeline (`CREATE TABLE IF NOT EXISTS`, truncate-and-reload, never a `DROP`) that cleans raw CRM tables into a `dwh` schema, deduplicates with a deterministic tie-break, and logs data-quality issues instead of blocking the load. It feeds sales-performance, MRR, and customer lifetime-value views. **6 automated QA checks**
 
 ---
 
